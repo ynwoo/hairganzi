@@ -9,3 +9,5 @@ conda activate hairganzi
 pip install -r requirements.txt
 
 conda install pytorch==1.4.0 torchvision==0.5.0 -c pytorch
+
+[발표자료](https://drive.google.com/file/d/19t_SAKXQ0suxoVVYlBkz-gqNXWe_pL95/view?usp=sharing)
